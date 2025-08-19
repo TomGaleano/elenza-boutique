@@ -18,7 +18,6 @@ const ShowingSearchPagination = ({
         <p className="text-xl max-sm:text-lg">Showing { showingProducts } of { totalProducts }</p>
         <Button
           text="View More"
-          mode="white"
           onClick={() => {
             setCurrentPage(page + 1);
             navigate(`/search?page=${page + 1}`);

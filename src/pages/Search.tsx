@@ -26,7 +26,7 @@ const Search = () => {
           name="searchInput"
         />
         <div className="w-52 max-sm:w-40">
-          <Button mode="brown" text="Search" type="submit" />
+          <Button text="Search" type="submit" />
         </div>
       </Form>
 

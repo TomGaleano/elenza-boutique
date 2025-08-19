@@ -33,7 +33,7 @@ const ProductItem = ({
         {formatCategoryName(category)}{" "}
       </p>
       <p className="text-brand-gold text-2xl text-center font-bold font-sans max-md:text-xl">
-        ${price}
+        AED {price}
       </p>
       <div className="w-full flex flex-col gap-1">
         <Link to={`/product/${id}`} className="w-full">

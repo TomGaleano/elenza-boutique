@@ -20,7 +20,6 @@ const ShowingPagination = ({
         <p className="text-xl max-sm:text-lg">Showing { showingProducts } of { totalProducts }</p>
         <Button
           text="View More"
-          mode="white"
           onClick={() => {
             setCurrentPage(page + 1);
             navigate(`/shop${category ? `/${category}` : ""}?page=${page + 1}`);

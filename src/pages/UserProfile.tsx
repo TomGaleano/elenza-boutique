@@ -102,14 +102,14 @@ const UserProfile = () => {
             defaultValue={user?.password}
           />
         </div>
-        <Button type="submit" text="Update Profile" mode="brown" />
+        <Button type="submit" text="Update Profile" />
         <Link
           to="/order-history"
           className="bg-white text-black text-center text-xl border border-gray-400 font-normal tracking-[0.6px] leading-[72px] w-full h-12 flex items-center justify-center max-md:text-base"
         >
           Order History
         </Link>
-        <Button onClick={logout} text="Logout" mode="white" />
+        <Button onClick={logout} text="Logout" />
       </form>
     </div>
   );

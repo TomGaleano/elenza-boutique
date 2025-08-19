@@ -96,7 +96,7 @@ const Register = () => {
             />
           </div>
         </div>
-        <Button type="submit" text="Register" mode="brown" />
+        <Button type="submit" text="Register" />
         <Link
           to="/login"
           className="text-xl max-md:text-lg max-[450px]:text-sm"

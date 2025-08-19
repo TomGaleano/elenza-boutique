@@ -79,7 +79,7 @@ const Login = () => {
             />
           </div>
         </div>
-        <Button type="submit" text="Login" mode="brown" />
+        <Button type="submit" text="Login" />
         <Link
           to="/register"
           className="text-xl max-md:text-lg max-[450px]:text-sm"

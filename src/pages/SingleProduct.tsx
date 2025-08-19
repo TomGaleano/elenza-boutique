@@ -123,7 +123,7 @@ const SingleProduct = () => {
             />
           </div>
           <div className="flex flex-col gap-3">
-            <Button mode="brown" text="Add to cart" onClick={handleAddToCart} />
+            <Button text="Add to cart" onClick={handleAddToCart} />
             <p className="text-secondaryBrown text-sm text-right">
               Delivery estimated on the Friday, July 26
             </p>
@@ -168,8 +168,6 @@ const SingleProduct = () => {
               title={product?.title}
               category={product?.category}
               price={product?.price}
-              popularity={product?.popularity}
-              stock={product?.stock}
             />
           ))}
         </div>
