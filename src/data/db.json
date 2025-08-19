@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "The Aurelia Silk Blouse",
+      "image": "womenswear-1.png",
+      "category": "Womenswear",
+      "price": 1850,
+      "description": "An embodiment of timeless grace, the Aurelia blouse is crafted from pure Italian silk, featuring a fluid silhouette and delicate mother-of-pearl buttons. A wardrobe staple for the discerning woman."
+    },
+    {
+      "id": "2",
+      "title": "The St. Germain Tote",
+      "image": "handbag.png",
+      "category": "Handbags",
+      "price": 4200,
+      "description": "Handcrafted from supple calfskin leather, the St. Germain Tote combines Parisian chic with everyday functionality. Its spacious interior and signature gold-plated hardware make it an instant classic."
+    },
+    {
+      "id": "3",
+      "title": "The Riviera Linen Trousers",
+      "image": "womenswear-2.png",
+      "category": "Womenswear",
+      "price": 1500,
+      "description": "Effortlessly elegant, these wide-leg linen trousers are perfect for sun-drenched days and balmy evenings. Tailored for a relaxed fit, they offer unparalleled comfort and sophisticated style."
+    },
+    {
+      "id": "4",
+      "title": "The Monaco Loafers",
+      "image": "loafers.png",
+      "category": "Footwear",
+      "price": 2800,
+      "description": "Experience unparalleled craftsmanship with the Monaco Loafers. Made from the finest suede and featuring a cushioned insole, they are the epitome of smart-casual luxury."
+    },
+    {
+      "id": "5",
+      "title": "The Celestial Drop Earrings",
+      "image": "necklace.png",
+      "category": "Jewellery",
+      "price": 2100,
+      "description": "Adorn yourself with the Celestial Drop Earrings, featuring ethically sourced diamonds set in 18k white gold. A dazzling statement of understated elegance."
+    },
+    {
+      "id": "6",
+      "title": "The Cashmere Throw",
+      "image": "home-decor.png",
+      "category": "Home Decor",
+      "price": 3500,
+      "description": "Woven from the softest Mongolian cashmere, this luxurious throw adds a touch of warmth and sophistication to any living space. Finished with delicate fringed edges."
+    },
+    {
+      "id": "7",
+      "title": "The Athena One-Shoulder Gown",
+      "image": "womenswear-3.png",
+      "category": "Womenswear",
+      "price": 6500,
+      "description": "A show-stopping piece for any formal occasion, the Athena gown features a dramatic one-shoulder neckline and a figure-skimming silhouette, crafted from sustainable crepe."
+    },
+    {
+      "id": "8",
+      "title": "The Portofino Sunglasses",
+      "image": "accessories-1.png",
+      "category": "Accessories",
+      "price": 1300,
+      "description": "Channel classic Italian glamour with the Portofino Sunglasses. Featuring an oversized frame and polarized lenses, they offer both style and superior UV protection."
+    },
+    {
+      "id": "9",
+      "title": "The Sienna Crossbody Bag",
+      "image": "handbag.png",
+      "category": "Handbags",
+      "price": 3100,
+      "description": "Compact yet surprisingly spacious, the Sienna Crossbody is the perfect companion for city explorations. Its structured design is complemented by a versatile, adjustable strap."
+    },
+    {
+      "id": "10",
+      "title": "The Velvet Slipper",
+      "image": "loafers.png",
+      "category": "Footwear",
+      "price": 2400,
+      "description": "Indulge in opulent comfort with our Velvet Slippers. Featuring a plush velvet exterior and a soft leather lining, they are ideal for elegant home entertaining."
+    },
+    {
+      "id": "11",
+      "title": "The Orion Diamond Necklace",
+      "image": "necklace.png",
+      "category": "Jewellery",
+      "price": 8900,
+      "description": "A timeless investment, the Orion Necklace features a brilliant-cut diamond solitaire suspended from a delicate 18k gold chain. A piece to be treasured for generations."
+    },
+    {
+      "id": "12",
+      "title": "The Marble Coaster Set",
+      "image": "home-decor.png",
+      "category": "Home Decor",
+      "price": 950,
+      "description": "Protect your surfaces in style with this set of four handcrafted marble coasters. Each piece is unique, showcasing the natural veining of the stone."
+    },
+    {
+      "id": "13",
+      "title": "The Regent Trench Coat",
+      "image": "womenswear-4.png",
+      "category": "Womenswear",
+      "price": 4800,
+      "description": "A modern interpretation of a classic, the Regent Trench Coat is crafted from water-resistant cotton gabardine and features a tailored fit and horn-effect buttons."
+    },
+    {
+      "id": "14",
+      "title": "The Silk Scarf",
+      "image": "accessories-2.png",
+      "category": "Accessories",
+      "price": 850,
+      "description": "Drape yourself in luxury with this oversized silk scarf, printed with an exclusive abstract design. A versatile accessory to elevate any outfit."
+    },
+    {
+      "id": "15",
+      "title": "The Mini Clutch",
+      "image": "leather-clutch.png",
+      "category": "Handbags",
+      "price": 2500,
+      "description": "The perfect evening accessory, this mini clutch is crafted from shimmering metallic leather and features a detachable chain strap for hands-free elegance."
+    },
+    {
+      "id": "16",
+      "title": "The Capri Leather Sandal",
+      "image": "loafers.png",
+      "category": "Footwear",
+      "price": 1900,
+      "description": "Handmade on the Amalfi Coast, the Capri Sandals feature intricate leather straps and a lightweight sole, ensuring both comfort and timeless style."
+    },
+    {
+      "id": "17",
+      "title": "The Luna Pearl Bracelet",
+      "image": "necklace.png",
+      "category": "Jewellery",
+      "price": 3200,
+      "description": "A symbol of purity and elegance, the Luna Bracelet features a string of lustrous freshwater pearls, secured with a sterling silver clasp."
+    },
+    {
+      "id": "18",
+      "title": "The Ceramic Vase",
+      "image": "home-decor.png",
+      "category": "Home Decor",
+      "price": 1200,
+      "description": "A minimalist masterpiece, this ceramic vase is handcrafted by artisans, featuring a textured matte finish. The perfect vessel for a single stem or a small bouquet."
+    },
+    {
+      "id": "19",
+      "title": "The Boyfriend Blazer",
+      "image": "womenswear-5.png",
+      "category": "Womenswear",
+      "price": 3200,
+      "description": "Effortlessly cool, the Boyfriend Blazer offers a relaxed, oversized fit. Tailored from a premium wool blend, it's the ultimate in versatile, androgynous chic."
+    },
+    {
+      "id": "20",
+      "title": "The Leather Belt",
+      "image": "leather-clutch.png",
+      "category": "Accessories",
+      "price": 950,
+      "description": "Define your waist with this classic leather belt, crafted from smooth, vegetable-tanned leather and finished with a polished gold buckle. An essential accessory for any wardrobe."
+    }
+  ],
+  "categories": [
+    { "id": "womenswear", "name": "Womenswear" },
+    { "id": "accessories", "name": "Accessories" },
+    { "id": "handbags", "name": "Handbags" },
+    { "id": "footwear", "name": "Footwear" },
+    { "id": "jewellery", "name": "Jewellery" },
+    { "id": "home-decor", "name": "Home Decor" }
+  ],
+  "orders": [],
+  "users": []
+}
